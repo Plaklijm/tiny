@@ -130,3 +130,6 @@ build/
 
 # Entire IDE folder (regenerated from CMake)
 .idea/
+
+# Docs folder for the generated doxygen files
+docs/
