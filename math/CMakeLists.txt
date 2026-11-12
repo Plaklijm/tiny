@@ -1,0 +1,2 @@
+﻿add_library(math INTERFACE) # set math as an interface library, meaning its header only, nothing gets compiled, just included
+target_include_directories(math INTERFACE include) # set the target folder to include
